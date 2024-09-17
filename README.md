@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Elouan GACHET</h1>
 <h3 align="center">I'm a student with a passion for IT. I am motivated and eager to learn. I'm currently looking for a work-study placement in application or web development.</h3>
 
-- 🔭 I’m currently working on **Anyone Here ?**
+- 🔭 I’m currently working on **Personal project**
 
-- 🌱 I’m currently learning **Dart, Flutter, PHP, JS**
+- 🌱 I’m currently learning **PHP, Symphony JS**
 
-- 🤝 I’m looking for help with **Learning JS**
+- 🤝 I’m looking for help with **Learning JS, Syphony**
 
-- 👨‍💻 All of my projects are available at [SOON,IN BUILDING](SOON,IN BUILDING)
+- 👨‍💻 All of my projects are available at **https://loul0une.github.io/Portfolio/**
 
 - 📫 How to reach me **elouan.gachet@gmail.com**
 
